@@ -59,6 +59,17 @@ In summary, this project is a full-fledged Chrome Extension that seamlessly blen
 
 # The picture given below indicates the Extension installed in chrome:
 
+
+
+
+![Image](https://github.com/user-attachments/assets/f8772ee1-97f4-4fd4-8512-b36866746031)
+
+
+
+
+
+
+
 Shows the Time Tracker Extension successfully added to Chrome.
 
 Highlights the name, version, and purpose of the extension.
@@ -74,17 +85,21 @@ Ready to track time and boost your productivity.
 
 
 
-![Image](https://github.com/user-attachments/assets/f8772ee1-97f4-4fd4-8512-b36866746031)
-
-
-
-
-
-
-
 
 
 # The picture given below indicates the Time Tracker Dashboard:
+
+
+
+
+![Image](https://github.com/user-attachments/assets/67b21244-72cf-40e7-86c2-4ec2254b2ba5)
+
+
+
+
+
+
+
 
 A sleek dashboard that displays your daily and weekly productivity stats.
 
@@ -105,6 +120,16 @@ Clean design with a reset button to start fresh anytime.
 
 # The picture given below indicates DevTools Console Logs:
 
+
+
+
+
+
+
+
+
+
+
 Live logs showing real-time tracking of websites visited.
 
 Each entry shows domain, time spent, and its category.
@@ -122,4 +147,4 @@ Proof that the extension works flawlessly under the hood.
 
 
 
-![Image](https://github.com/user-attachments/assets/67b21244-72cf-40e7-86c2-4ec2254b2ba5)
+
