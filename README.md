@@ -16,7 +16,7 @@
 
 # TASK DESCRIPTION:
 
-         In today’s digitally driven world, productivity often hinges on how well we manage our time online. With the increasing number of distractions available through social media, streaming platforms, and various websites, it becomes essential to have a tool that can help users track, analyze, and improve their online habits. To address this need, we developed a Chrome Extension that automatically tracks the time spent on various websites and classifies them into productive and unproductive categories. The extension offers a simple but powerful dashboard that displays productivity insights through charts and summaries.
+         In today’s digitally driven world, productivity often hinges on how well we manage our time online. With the increasing number of distractions available through social media, streaming platforms, and various websites, it becomes essential to have a tool that can help users track, analyze, and improve their online habits. To address this need, I developed a Chrome Extension that automatically tracks the time spent on various websites and classifies them into productive and unproductive categories. The extension offers a simple but powerful dashboard that displays productivity insights through charts and summaries.
 
 This project’s primary objective is to empower users to take control of their digital behavior by providing accurate data about their web activity. Whether the user is a student, professional, or casual browser, this extension enables them to reflect on their daily internet usage and make conscious changes to improve productivity.
 
