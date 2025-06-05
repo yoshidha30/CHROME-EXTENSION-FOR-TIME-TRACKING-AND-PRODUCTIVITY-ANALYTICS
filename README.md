@@ -70,15 +70,15 @@ In summary, this project is a full-fledged Chrome Extension that seamlessly blen
 
 
 
-Shows the Time Tracker Extension successfully added to Chrome.
+🔹Shows the Time Tracker Extension successfully added to Chrome.
 
-Highlights the name, version, and purpose of the extension.
+🔹Highlights the name, version, and purpose of the extension.
 
-Displays a unique ID and developer tools for inspection.
+🔹Displays a unique ID and developer tools for inspection.
 
-Developer mode is enabled for easy testing and updates.
+🔹Developer mode is enabled for easy testing and updates.
 
-Ready to track time and boost your productivity.
+🔹Ready to track time and boost your productivity.
 
 
 
@@ -101,15 +101,15 @@ Ready to track time and boost your productivity.
 
 
 
-A sleek dashboard that displays your daily and weekly productivity stats.
+🔹A sleek dashboard that displays your daily and weekly productivity stats.
 
-It breaks down time into productive, unproductive, and neutral categories.
+🔹It breaks down time into productive, unproductive, and neutral categories.
 
-The bar chart provides a quick glance at weekly trends.
+🔹The bar chart provides a quick glance at weekly trends.
 
-Top sites show where your time goes the most.
+🔹Top sites show where your time goes the most.
 
-Clean design with a reset button to start fresh anytime.
+🔹Clean design with a reset button to start fresh anytime.
 
 
 
@@ -125,20 +125,24 @@ Clean design with a reset button to start fresh anytime.
 
 
 
+![Image](https://github.com/user-attachments/assets/24aea57f-1908-4255-8a82-c087e5e2f514)
 
 
 
 
 
-Live logs showing real-time tracking of websites visited.
 
-Each entry shows domain, time spent, and its category.
 
-Confirms data is being saved accurately to local storage.
 
-Helps developers monitor background activity easily.
+🔹Live logs showing real-time tracking of websites visited.
 
-Proof that the extension works flawlessly under the hood.
+🔹Each entry shows domain, time spent, and its category.
+
+🔹Confirms data is being saved accurately to local storage.
+
+🔹Helps developers monitor background activity easily.
+
+🔹Proof that the extension works flawlessly under the hood.
 
 
 
