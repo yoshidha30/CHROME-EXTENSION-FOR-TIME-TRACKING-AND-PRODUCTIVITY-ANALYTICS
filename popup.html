@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Time Tracker Dashboard</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 10px;
+      width: 300px;
+    }
+    h2 {
+      margin-top: 15px;
+      margin-bottom: 5px;
+    }
+    #siteList {
+      list-style-type: none;
+      padding-left: 0;
+    }
+    #siteList li {
+      margin-bottom: 3px;
+    }
+    #reset-btn {
+      margin-top: 15px;
+      padding: 8px 12px;
+      background-color: #f44336;
+      color: white;
+      border: none;
+      cursor: pointer;
+      border-radius: 4px;
+      width: 100%;
+    }
+    #reset-btn:hover {
+      background-color: #d32f2f;
+    }
+    #weeklyChart {
+      max-width: 100%;
+      height: 200px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Time Tracker Dashboard</h1>
+
+  <h2>Today's Summary</h2>
+  <p>Productive Time: <span id="prod-time">0</span> min</p>
+  <p>Unproductive Time: <span id="unprod-time">0</span> min</p>
+  <p>Neutral Time: <span id="neutral-time">0</span> min</p>
+  <p>Productivity Score: <span id="prod-score">0%</span></p>
+
+  <h2>Weekly Productivity</h2>
+  <canvas id="weeklyChart"></canvas>
+
+  <h2>Top Sites</h2>
+  <ul id="siteList"></ul>
+
+  <button id="reset-btn">Reset Data</button>
+
+  <!-- Load Chart.js locally -->
+  <script src="chart.min.js"></script>
+
+  <!-- Load your popup script -->
+  <script src="popup.js"></script>
+</body>
+</html>
